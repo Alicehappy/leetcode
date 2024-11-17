@@ -1,5 +1,7 @@
 import "./SlideWindowComponent.scss";
 
+// Nov 14, 2024, Sliding Window: Maximum Number of Vowels in a Substring of Given Length (Medium)
+
 function SlideWindowComponent() {
   const maxVowels = function (s, k) {
     const vowels = ["a", "e", "i", "o", "u"];
