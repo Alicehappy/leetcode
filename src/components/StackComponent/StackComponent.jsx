@@ -3,7 +3,6 @@ import "./StackComponent.scss";
 function StackComponent() {
 
     // Nov 17, 2024, Stack: Asteroids collision (Medium)
-    // This could be improved by the faster solution in leetcode
 
     const asteroidCollision = function (asteroids) {
         let res = [];
